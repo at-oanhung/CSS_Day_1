@@ -113,6 +113,18 @@ nav ul li a:hover {
     position: relative;
 }
 
+.aside-adults .title-adults::after{
+	content: '-';
+	position: absolute;
+	right: 21px;
+}
+
+.aside-children .title-children::after{
+	content: '+';
+	position: absolute;
+	right: 21px;
+}
+
 .aside-form {
   text-align: center  ;
 		background: #d9e4e9;
