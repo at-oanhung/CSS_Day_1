@@ -174,7 +174,7 @@ nav ul li a:hover {
 .aside-form input {
   width: 100%;
   margin-top: 15px;
-  padding: 14px 12px;
+	padding: 14px 12px;
 }
 
 .aside-form input[type = submit] {
